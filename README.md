@@ -4,7 +4,6 @@
 ---
 
 # Game of Topic Modeling: Evaluating NMF on George R.R. Martin's Book Series
-**DTSA 5510 Final Project**
 
 ---
 
